@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Coding, and technologies related stuff
 - 📫 How to reach me? 
 
-  - Email     :   contact@almatan.com
+  - Email     :   contact@almatten.com
   - Website   :   https://www.almatten.com
   - Linkedin  :   https://www.linkedin.com/company/almatten
   - Twitter   :   https://twitter.com/AlmattenBlog
