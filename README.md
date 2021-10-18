@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @almatten 
+- 🌱 I’m currently learning Coding, and technologies related stuff
+- 📫 How to reach me? 
+
+  - Email     :   contact@almatan.com
+  - Website   :   https://www.almatten.com
+  - Linkedin  :   https://www.linkedin.com/company/almatten
+  - Twitter   :   https://twitter.com/AlmattenBlog
+  - Facebook  :   https://www.facebook.com/almattenblog
+  - Instagram :   https://www.facebook.com/almattenblog
+  - Pinterest :   https://www.pinterest.com/al_matten/
+  - Youtube   :   https://www.youtube.com/channel/UC2Ht21u7KLkxo5ZaeuEfTxQ
