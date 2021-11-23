@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @almatten 
-- 🌱 I’m currently learning Coding, and technologies related stuff
-- 📫 How to reach me? 
+- 👋 Hi, Welcome to @almatten 
+- 🌱 we post things about Coding and technologies related stuff
+- 📫 How to reach us? 
 
   - Email     :   contact@almatten.com
   - Website   :   https://www.almatten.com
