@@ -1,5 +1,5 @@
-- 👋 Hi, Welcome to @almatten 
-- 🌱 we post things about Coding and technologies related stuff
+- 👋 Hi, Welcome to **@almatten**
+- 🌱 we post things about **Coding** and **Technologies related stuff**
 - 📫 How to reach us? 
 
   - Email     :   contact@almatten.com
